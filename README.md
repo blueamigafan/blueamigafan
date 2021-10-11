@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blueamigafan
+- 👀 I’m interested in learning fullstack web development
+- 🌱 I’m currently learning ruby on rails
+- 📫 How to reach me mikebarker60@hotmail.com
